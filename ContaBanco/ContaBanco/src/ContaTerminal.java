@@ -4,6 +4,14 @@ public class ContaTerminal{
 
 
     public static void main(String[] args) {
+        //TODO: Conhecer e importar a classe Scanner
+
+        //TODO: Exibir as mensagens para nosso usuário
+
+        //TODO: Obter pela classe scanner os valores digitados no terminal
+        
+        //TODO: exibir a mensagem da conta criada
+        
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Por favor, digite o número da conta corrente bancária:");
